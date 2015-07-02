@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "AuthWebApp"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-AuthWebApp-addb8409-b5d9-49d9-8ed2-6fff674c1528;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
